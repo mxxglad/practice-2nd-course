@@ -1,1 +1,1 @@
-# practice-2nd-course
+# practice-2nd-course.github.io
